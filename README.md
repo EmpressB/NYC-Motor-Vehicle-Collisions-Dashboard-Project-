@@ -22,3 +22,13 @@ This project analyzes motor vehicle collision trends in New York City, focusing 
 
 ## Notes
 This project emphasizes data storytelling through visualization and was designed for stakeholder interpretation.
+
+
+## Dataset
+
+Due to GitHub file size limits, the full raw dataset is not stored in this repository.
+
+Source: NYC Open Data  
+Link: https://data.cityofnewyork.us/Public-Safety/Motor-Vehicle-Collisions-Crashes/h9gi-nx95
+
+The analysis notebook includes all data cleaning, filtering, and aggregation steps.
